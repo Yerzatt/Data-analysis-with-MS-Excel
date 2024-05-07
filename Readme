@@ -1,0 +1,8 @@
+The Orders database contains information on the following variables.
+•	Continuous variables: Row ID, Order ID, Order Date, Ship Date, Customer ID, Product ID, Sales, Quantity, Discount, Profit, Shipping Cost	
+•	Categorical variables: Ship Mode, Customer Name, Segment, Postal Code, City, State, Country, Region, Market, Category, Subcategory, Product Name, Order Priority
+The purpose of this project:
+1.	To use descriptive statistics methods to assess the sales performance across various segments, markets, product categories and subcategories; 
+2.	To use diagnostic analytics methods to understand the statistical significance of the factors that influence sales; 
+3.	Use predictive analytics (regression) to understand the strengths of the relationship between sales and sales drivers and generate a regression formula to predict sales
+4.	develop a sales forecasting model based on the insights.
